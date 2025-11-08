@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/consultorio-medico",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a consultorio-medico",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/consultorio-medico.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://sitiosweb.mx/consultorio-medico/"
+    },
+    "homepage": "https://sitiosweb.mx/consultorio-medico/"
+}
